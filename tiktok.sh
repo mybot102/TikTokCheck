@@ -100,29 +100,6 @@ function Heading() {
 
 function Goodbye() {
     echo ""
-    echo "******************************************"
-    echo ""
-    echo -e ""
-    echo -e ""
-    echo -e ""
-    echo -e ""
-    #echo -e "${Font_Yellow}检测脚本当天运行次数：${TodayRunTimes}; 共计运行次数：${TotalRunTimes} ${Font_Suffix}"
-    echo -e ""
-    echo -e "${Font_SkyBlue}【TikTok相关】${Font_Suffix}"
-    echo -e "================================================"
-    echo -e "${Font_Yellow}Residential IP TikTok解锁${Font_Suffix}"
-    echo ""
-    echo -e "${Font_Green}✅ ${Font_Suffix} ${Font_SkyBlue}各国家宽IP${Font_Suffix}"
-    echo -e "${Font_Green}✅ ${Font_Suffix} ${Font_SkyBlue}一键配置${Font_Suffix}"
-    echo -e "${Font_Green}✅ ${Font_Suffix} ${Font_SkyBlue}支持定制${Font_Suffix}"
-    echo ""
-    echo -e "${Font_Yellow}联系咨询: https://t.me/czgno${Font_Suffix}"
-    echo -e "================================================"
-    echo -e ""
-    echo -e ""
-    echo -e ""
-    echo -e ""
-
 }
 
 clear
